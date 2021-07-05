@@ -1,0 +1,1 @@
+add_executable(math_bezier main.cpp)
